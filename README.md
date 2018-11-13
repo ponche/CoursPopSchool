@@ -4,14 +4,14 @@
 
 en C, il existe plusieurs type de variable 
 voici les différent type de variable : 
-- *int* est une variable qui peut stoker des nombre entier  
-- *float* est une variable qui peut stocker des nombre à virgule 
-- *long* est une variable  qui peut stocker un grand entier 
-- *double* est une variable qui peut stocker une grand nombre à virgule 
-- *bool* est une variable qui peut prendre que deux état (true/false ) 
-- *string" est une chaine de caractère 
-- *char* est une variable conçu pour stocker un caractère de la table ASCII 
-- *void* est une variable ou on ne peut rien mettre ( c'est le néant ) 
+- **int** est une variable qui peut stoker des nombre entier  
+- **float** est une variable qui peut stocker des nombre à virgule 
+- **long** est une variable  qui peut stocker un grand entier 
+- **double** est une variable qui peut stocker une grand nombre à virgule 
+- **bool** est une variable qui peut prendre que deux état (true/false ) 
+- **string** est une chaine de caractère 
+- **char** est une variable conçu pour stocker un caractère de la table ASCII 
+- **void** est une variable ou on ne peut rien mettre ( c'est le néant ) 
 
 ## comment déclarer une variable en c 
 
@@ -20,17 +20,17 @@ pour déclarer une variable en c, il faut écrire le type suivi du noms de la va
 int maVariable ; 
 ``` 
 
-ce code si dessous déclare une variable de type *int* qui a pour nom *maVariable*
+ce code si dessous déclare une variable de type **int** qui a pour nom **maVariable**
 
 ## affecter une valeur à une variable 
 
-pour affecter une valeur à une variable, il faut utiliser l'opérateur *=* 
+pour affecter une valeur à une variable, il faut utiliser l'opérateur **=** 
 exemple : 
 ```
 maVariable = 69 ; 
 ```
 
-dans cette exemple si dessous on affecte le nombre 69 dans la variable *maVariable* 
+dans cette exemple si dessous on affecte le nombre 69 dans la variable **maVariable** 
 
 ## déclarer une fonction en C 
 
@@ -57,6 +57,8 @@ pour appeler du code il suffit juste d'écrire ça :
 ```
 double surfaceCuisine = surfaceRectangle( 30 , 60 ) ; 
 ```
+dans le code si dessus on stocke le return de la fonction dans la variable *surfaceCuisine*
+mais on n'est pas obliger de stocker la valeur, si on a pas besoin. et juste executer le code de la fonction 
 
 ## les structure de controle 
 
