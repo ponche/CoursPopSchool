@@ -4,13 +4,13 @@
 
 en C, il existe plusieurs type de variable 
 voici les différent type de variable : 
-- **int** est une variable qui peut stoker des nombre entier  
-- **float** est une variable qui peut stocker des nombre à virgule 
-- **long** est une variable  qui peut stocker un grand entier 
-- **double** est une variable qui peut stocker une grand nombre à virgule 
-- **bool** est une variable qui peut prendre que deux état (true/false ) 
-- **char** est une variable conçu pour stocker un caractère de la table ASCII 
-- **void** est une variable ou on ne peut rien mettre ( c'est le néant ) 
+- **int** est une type de variable qui peut stoker des nombre entier  
+- **float** est une type de variable qui peut stocker des nombre à virgule 
+- **long** est une type de variable  qui peut stocker un grand entier 
+- **double** est une type variable qui peut stocker une grand nombre à virgule 
+- **bool** est une type de variable qui peut prendre que deux état (true/false ) 
+- **char** est une type de variable conçu pour stocker un caractère de la table ASCII 
+- **void** est une type de variable ou on ne peut rien mettre ( c'est le néant ) 
 
 ## comment déclarer une variable en c 
 
