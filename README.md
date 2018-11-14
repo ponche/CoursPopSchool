@@ -31,6 +31,28 @@ maVariable = 69 ;
 
 dans cette exemple si dessous on affecte le nombre 69 dans la variable **maVariable** 
 
+## Les tableaux en C
+
+en C , les tableaux permet de stocker plusieurs variable de meme type dans un conteneur ( exemple les notes des eleves ) 
+
+### déclaration de tableau
+
+pour déclarer un tableau, il faut renseigner le type de variable suivi du nom de tableau et le nombre de variable que le tableau doit obtenir entre crochet, exemple : 
+``` 
+int notesEleves[24] ; 
+``` 
+dans cette exemple on crée un tableau de nom *notesEleves* qui contiendra 24 variable de type **int** 
+
+### acceder à un element du tableau 
+
+pour acceder à un element du tableau on il accede par son index ( la position dans le tableau ) comme ceci : 
+```
+notesEleves[0] = 18 ; 
+```
+dans le code si dessous on affecte la première note du tableau en lui affectant une note de 18 
+
+**Attention, on commence à compter à partir de zéro, pour vous rappeler, pensez au bouton des ascenseur, le RDC est le premier étage du batiment **
+  
 ## déclarer une fonction en C 
 
 ![dino](http://remi-ponche.fr/source/dino-function.png)
