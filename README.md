@@ -9,7 +9,6 @@ voici les différent type de variable :
 - **long** est une variable  qui peut stocker un grand entier 
 - **double** est une variable qui peut stocker une grand nombre à virgule 
 - **bool** est une variable qui peut prendre que deux état (true/false ) 
-- **string** est une chaine de caractère 
 - **char** est une variable conçu pour stocker un caractère de la table ASCII 
 - **void** est une variable ou on ne peut rien mettre ( c'est le néant ) 
 
